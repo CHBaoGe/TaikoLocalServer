@@ -31,4 +31,4 @@ Please refer to the [taikolocalserver readme file](./TaikoLocalServer/README.md)
 ### TaikoWebUI configuration
 
 The WebUI has a few settings you can change in [appsettings.json](./TaikoWebUI/wwwroot/appsettings.json)  
-Please refer to the [taikowebui readme file](./TaikoWebUI/README.md) for documentation.
+Please refer to the [taikowebui readme file](./TaikoWebUI/README.md) for documentation
